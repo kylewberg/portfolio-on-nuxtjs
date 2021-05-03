@@ -35,7 +35,7 @@
                             <p class="text-xl xl:text-2xl text-gray-700">{{ project.date | formatDate }}</p>
                         </div>
                         <div class="md:pl-8 md:w-2/3">
-                            <img v-if="project.featuredImage" class="shadow-md mb-4 xl:mb-12 " :src="project.featuredImage.node.sourceUrl" alt="" style="max-width:1280px;">
+                            <img v-if="project.featuredImage" class="w-full h-auto shadow-md mb-4 xl:mb-12 " :src="project.featuredImage.node.sourceUrl" alt="" style="max-width:1280px;">
                             <div class="text-lg max-w-prose xl:text-xl" v-html="project.excerpt"></div>
                             <NuxtLink class="mt-4 button" :to="{name: 'projects-slug', params: { id: project.id, slug: project.slug }}">View Project &raquo;</NuxtLink>
                         </div>
