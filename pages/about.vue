@@ -14,7 +14,7 @@
                         <h2 class="text-4xl">NuxtJS + WordPress</h2>
                     </div>
                     <div class="sm:pl-8 sm:w-2/3 text-xl">
-                        <p>This site was built to test using <a class="underline hover:no-underline" href="https://wordpress.org/" target="_blank">WordPress</a> as a headless CMS, exposing a <a class="underline hover:no-underline" href="https://www.wpgraphql.com/" target="_blank">GraphQL endpoint</a> that gets consumed by a <a class="underline hover:no-underline" href="https://vuejs.org/" target="_blank">Vue.js</a> application, built on top of the <a class="underline hover:no-underline" href="https://nuxtjs.org/" target="_blank">NuxtJS</a> framework.</p>
+                        <p>This site was built to test using <a class="underline hover:no-underline" href="https://wordpress.org/" target="_blank">WordPress</a> as a headless CMS, exposing a <a class="underline hover:no-underline" href="https://www.wpgraphql.com/" target="_blank">GraphQL endpoint</a> that gets consumed by a <a class="underline hover:no-underline" href="https://vuejs.org/" target="_blank">Vue.js</a> application, built on top of the <a class="underline hover:no-underline" href="https://nuxtjs.org/" target="_blank">NuxtJS</a> framework. The source code can be <a class="underline hover:no-underline" href="https://github.com/kylewberg/portfolio-on-nuxtjs" target="_blank">viewed on GitHub</a>.</p>
                         <p class="mt-8">The content is managed in the WordPress site located at <a class="underline hover:no-underline" href="https://www.kylewberg.com/" target="_blank">kylewberg.com</a>.</p>
                     </div>
                 </div>
